@@ -26,7 +26,7 @@
 - Tomatoes  
 - Fennel bulb  
 - Leeks  
-- Onions  
+- _Onion（ALLERGIC）_  
 - Potatoes  
 - Olive oil  
 
@@ -38,6 +38,3 @@
 - Thyme  
 - Parsley  
 - Salt & pepper  
-
-
-random changes in my README.md
