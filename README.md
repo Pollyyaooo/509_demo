@@ -107,4 +107,8 @@ Potential extensions and challenges:
 - Use AI/ML techniques to generate style-based compositions
 - Include user-controlled themes or motifs
 
+<<<<<<< HEAD
 ### deverloper 1
+=======
+### developer 1
+>>>>>>> rnd
