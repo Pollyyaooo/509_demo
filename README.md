@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎵 Simple Music Composer in Python
 
 This project explores the design of a **simple automatic music composer** using Python.  
@@ -108,4 +107,3 @@ Potential extensions and challenges:
 - Use AI/ML techniques to generate style-based compositions
 - Include user-controlled themes or motifs
 =======
->>>>>>> 6cbc7fb (new pile)
